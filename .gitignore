@@ -1,0 +1,7 @@
+/target
+.ide/
+.vscode/
+*.lock
+data/
+test*
+test/
